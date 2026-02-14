@@ -1,6 +1,7 @@
 import { notFound } from "next/navigation"
 import { getAllPosts, getPostBySlug } from "@/lib/hygraph"
 import { BlogHeader } from "@/components/blog-header"
+import { TableOfContents } from "@/components/table-of-contents"
 import { formatDate } from "@/lib/utils"
 
 interface PostPageProps {
