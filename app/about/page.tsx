@@ -21,9 +21,9 @@ export default function AboutPage() {
             </p>
 
             <p>
-              The articles feature clean, content-focused designs that prioritize readability and user experience. Built
+              The posts feature clean, content-focused designs that prioritize readability and user experience. Built
               with Next.js and styled like Tailwind CSS, it demonstrates the power of modern web technologies combined
-              with a headless CMS approach. It avoids React2Shell via use of the most recent Next.js versions.
+              with a headless CMS approach.
             </p>
           </div>
         </article>
